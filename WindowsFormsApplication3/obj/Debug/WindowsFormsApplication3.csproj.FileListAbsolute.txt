@@ -1,0 +1,33 @@
+c:\users\днс\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\днс\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\днс\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\днс\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\днс\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\днс\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\днс\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\днс\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\днс\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\днс\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\днс\Documents\Visual Studio 2015\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\днс\Documents\Visual Studio 2015\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\днс\Documents\Visual Studio 2015\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\днс\Documents\Visual Studio 2015\Projects\1 Обобщенный МАР-поток событий\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\днс\Documents\Visual Studio 2015\Projects\1 Обобщенный МАР-поток событий\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\днс\Documents\Visual Studio 2015\Projects\1 Обобщенный МАР-поток событий\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\днс\Documents\Visual Studio 2015\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\днс\Documents\Visual Studio 2015\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\днс\Documents\Visual Studio 2015\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\днс\Documents\Visual Studio 2015\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\днс\Documents\Visual Studio 2015\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\днс\Documents\Visual Studio 2015\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\днс\Documents\Visual Studio 2015\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Моя прелесть\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Моя прелесть\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Моя прелесть\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Моя прелесть\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Моя прелесть\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Моя прелесть\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\Моя прелесть\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Моя прелесть\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+D:\Моя прелесть\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Моя прелесть\Projects\2 Обобщенный МАР-поток событий — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
